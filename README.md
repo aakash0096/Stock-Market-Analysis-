@@ -119,3 +119,4 @@ Possible improvements include:
 * 📱 Web-based interface
 * ☁️ Cloud deployment
 * 📉 Portfolio performance analysis
+
